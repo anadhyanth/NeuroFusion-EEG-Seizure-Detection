@@ -1,4 +1,4 @@
-<!-- <p align="center">
+<p align="center">
   <img src="assets/banner.png" width="100%">
 </p>
 
@@ -16,10 +16,6 @@ Hybrid Deep Learning using Numeric + Image Feature Fusion
 </p>
 
 # NeuroFusion-EEG-Seizure-Detection
-A hybrid deep learning framework for EEG seizure detection using numeric and image feature fusion. Designed from scratch using ML and DL approaches, the proposed model achieved 97.19% accuracy, outperforming existing methods through robust EEG feature extraction and classification. -->
-
-## Overview
-
 A hybrid deep learning framework for EEG seizure detection using numeric and image feature fusion. Designed from scratch using ML and DL approaches, the proposed model achieved 97.19% accuracy, outperforming existing methods through robust EEG feature extraction and classification.
 
 ---
@@ -34,15 +30,6 @@ Dataset includes:
 - EEG signal segments converted into image representations
 
 Due to GitHub storage limitations, the dataset is not included in this repository.
-
----
-
-## Proposed Workflow
-
-<p align="center">
-  <img src="assets/workflow.png" width="100%">
-</p>
-
 ---
 
 ## Proposed Architecture
