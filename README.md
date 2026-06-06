@@ -40,7 +40,7 @@ Due to GitHub storage limitations, the dataset is not included in this repositor
 
 ---
 
-## EEG Example (BEED Dataset)
+## EEG Example
 
 <p align="center">
   <img src="assets/eeg_example.png" width="100%">
